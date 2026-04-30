@@ -95,4 +95,4 @@ Women customers, top-performing states, and major platforms like Amazon were key
 ---
 
 ## 🔗 Connect with Me  
-(Add your LinkedIn/GitHub profile link here)
+https://www.linkedin.com/in/nsr2k06/
