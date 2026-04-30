@@ -1,77 +1,98 @@
 # 📊 Vrinda Store Sales Analysis (Excel Project)
 
-## 📌 Project Overview
-
-Analyzed Vrinda Store sales data (2022) using Excel to uncover trends, customer behavior, and business insights.
-
----
-
-## 🛠️ Tools Used
-
-* Microsoft Excel
+## 📌 Project Overview  
+This project analyzes Vrinda Store sales data (2022) using Microsoft Excel to uncover trends, customer behavior, and business insights.  
+An interactive dashboard was created to visualize key metrics and support decision-making.
 
 ---
 
-## ⚙️ Project Workflow
-
-### 🔹 Data Cleaning
-
-* Used filters to validate data
-* Removed duplicates and ensured no null values
-
-### 🔹 Data Processing
-
-* Created **Age Groups** using IF formula (then converted to values)
-* Extracted **Month** using text/date formatting
-* Removed unnecessary **grand totals** for clean analysis
-
-### 🔹 Data Analysis
-
-* Built **Pivot Tables** for structured analysis
-
-* Created charts for:
-
-  * Month vs Sales
-  * Men vs Women Sales
-  * Top 5 States by Sales
-  * Order Status
-  * Age Group vs Orders
-
-* Connected all visuals using **Slicers** for interactivity
+## 🛠️ Tools Used  
+- Microsoft Excel  
 
 ---
 
-## 📊 Key Insights
+## ⚙️ Project Workflow  
 
-* Total Sales: ₹21.2M
-* Women contribute ~64% of sales
-* Top State: Maharashtra
-* Top Channel: Amazon (~35%)
-* ~92% orders successfully delivered
-* Adult age group contributes highest orders
+### 🔹 Data Cleaning  
+- Used filters to validate data  
+- Removed duplicates and ensured no null values  
 
----
+### 🔹 Data Processing  
+- Created Age Groups using IF formula (converted formulas to values)  
+- Extracted Month using date/text formatting  
+- Removed unnecessary grand totals  
 
-## 📈 Conclusion
+### 🔹 Data Analysis  
+- Built Pivot Tables for structured analysis  
+- Created charts for:
+  - Month vs Sales  
+  - Men vs Women Sales  
+  - Top 5 States by Sales  
+  - Order Status  
+  - Age Group vs Orders  
 
-Vrinda Store performed strongly in 2022 with high sales and customer satisfaction.
-Women customers and top states like Maharashtra played a major role in revenue growth.
-
----
-
-## 📷 Dashboard
-
-(Add dashboard.png)
-
-## 📷 Insights
-
-(Add insights.png)
+- Connected all charts using slicers for an interactive dashboard  
 
 ---
 
-## 🚀 Key Learnings
+## 📊 Key Insights  
+- 💰 Total Sales: ₹21.2M  
+- 📦 Total Orders: 31K  
+- 🛒 Average Order Value: ₹682  
 
-* Hands-on experience with Excel data analysis
-* Improved data cleaning and transformation skills
-* Learned to build interactive dashboards using slicers
-* Developed ability to generate business insights
+- 👩 Women contribute ~64% of total sales  
+- 📍 Top States: Maharashtra, Karnataka, Uttar Pradesh  
+- 🛍 Top Channel: Amazon (~35%)  
+
+- 🚚 ~92% orders successfully delivered  
+- 🔁 Low return/cancellation rate (~2–3%)  
+
+- 👨‍👩‍👧 Adult age group contributes the highest orders  
+
+---
+
+## 📷 Dashboard Preview  
+
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
+
+---
+
+## 📷 Insights  
+
+<p align="center">
+  <img src="insights.png" width="600"/>
+</p>
+
+---
+
+## 📁 Project Structure  
+
+```
+Vrinda-Store-Sales-Analysis-Excel/
+│
+├── Vrinda_Store_Data.xlsx
+├── dashboard.png
+├── insights.png
+└── README.md
+```
+
+---
+
+## 📈 Conclusion  
+Vrinda Store showed strong performance in 2022 with high sales and efficient order fulfillment.  
+Women customers, top-performing states, and major platforms like Amazon were key contributors to revenue.
+
+---
+
+## 🚀 Key Learnings  
+- Learned data cleaning and preprocessing  
+- Built interactive dashboards using slicers  
+- Gained hands-on experience with pivot tables and charts  
+- Improved ability to extract business insights from data  
+
+---
+
+## 🔗 Connect with Me  
+(Add your LinkedIn/GitHub profile link here)
