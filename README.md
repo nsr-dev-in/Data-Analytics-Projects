@@ -54,7 +54,7 @@ An interactive dashboard was created to visualize key metrics and support decisi
 ## 📷 Dashboard Preview  
 
 <p align="center">
-  <img src="dashboard.png" width="800"/>
+  <img src="Dashboard.png" width="800"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ An interactive dashboard was created to visualize key metrics and support decisi
 ## 📷 Insights  
 
 <p align="center">
-  <img src="insights.png" width="600"/>
+  <img src="Insights.png" width="600"/>
 </p>
 
 ---
